@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/MirrorReflectionTeam/Mirror-Reflection/main/MR_banner.jpg)
+![banner](https://raw.githubusercontent.com/MirrorReflectionTeam/MirrorReflectionTeam/main/MR_banner.jpg)
 ## 🚀 About Mirror Reflection
 
 Hi! We are Mirror Reflection Team from Ukraine. We have experience with trading crypto&fx market, management and POW mining. Now we are starting as PoS validator that is focused on Cosmos Ecosystem. Validation experience is about 10 chains for 3 month. Always available 24 hours!
