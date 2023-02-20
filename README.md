@@ -24,6 +24,8 @@ We are looking forward to work with you.
 * **[Nolus](https://nolus.explorers.guru/validator/nolusvaloper1t2605rkkrr5zszx2ymeqhz2j24gdypn6e74tft)**
 * **[Lava](https://lava.explorers.guru/validator/lava@valoper1c9e9ntwz2g6sxe5g00z0vgxp9yfqkrfe8fgzua)**
 * **[Paloma](https://explorer.mcbnode.online/paloma-test/staking/palomavaloper13cfxrvldlpxdhn8mq9ydm3syyshddruzu9r86y)**
+* **[Nibiru](https://nibiru.explorers.guru/validator/nibivaloper1k8jxnyt7tzlg98z7aqv4ydu3e85557yug63z5s)**
+* **[Andromeda](https://andromeda.explorers.guru/validator/andrvaloper187qg8np6zngwpsdmguf3jxwdj5hdwmh7v7awce)**
 
 ## Social links:
 * **[YouTube](https://www.youtube.com/@mirrorreflection)**
