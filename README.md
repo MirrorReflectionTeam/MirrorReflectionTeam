@@ -18,7 +18,6 @@ We are looking forward to work with you.
 ### Testnet 
 * **[Uptick](https://uptick.explorers.guru/validator/uptickvaloper1urrht6c4qrmrxm3n7mj3q9phvfldfn69r6axr5)**
 * **[Defund](https://defund.explorers.guru/validator/defundvaloper1v0emcp5u268etyz34x5wqdzzzuu33hsxycrgzr)**
-* **[Celestia](https://celestia.explorers.guru/validator/celestiavaloper1kquu8h020xru4xqsncke53wx0jj9u7yy2gc6c6)**
 * **[Humans](https://humans.explorers.guru/validator/humanvaloper1s7vqhlesgtfr5a85pedxquctsc9j2zs2ufgwk7)**
 * **[Gitopia](https://gitopia.explorers.guru/validator/gitopiavaloper10rm952fn4e37apwr7eadr6h2n3z527yucj2hae)**
 * **[Nolus](https://nolus.explorers.guru/validator/nolusvaloper1t2605rkkrr5zszx2ymeqhz2j24gdypn6e74tft)**
