@@ -1,7 +1,7 @@
 ![banner](https://raw.githubusercontent.com/MirrorReflectionTeam/MirrorReflectionTeam/main/MR_banner.jpg)
 ## 🚀 About Mirror Reflection
 
-Hi! We are Mirror Reflection Team from Ukraine. We have experience with trading crypto&fx market, management and POW mining. Now we are starting as PoS validator that is focused on Cosmos Ecosystem. Validation experience is about 10 chains for 3 month. Always available 24 hours!
+Hi! We are Mirror Reflection Team from Ukraine. We have experience with trading crypto&fx market, management and POW mining. Now we are starting as PoS validator that is focused on Cosmos Ecosystem. Validation experience is over 10 chains. Always available 24 hours!
 We are looking forward to work with you.
 
 ### :computer: Hardware:
@@ -20,7 +20,6 @@ We are looking forward to work with you.
 * **[Defund](https://defund.explorers.guru/validator/defundvaloper1v0emcp5u268etyz34x5wqdzzzuu33hsxycrgzr)**
 * **[Humans](https://humans.explorers.guru/validator/humanvaloper1s7vqhlesgtfr5a85pedxquctsc9j2zs2ufgwk7)**
 * **[Gitopia](https://gitopia.explorers.guru/validator/gitopiavaloper10rm952fn4e37apwr7eadr6h2n3z527yucj2hae)**
-* **[Nolus](https://nolus.explorers.guru/validator/nolusvaloper1t2605rkkrr5zszx2ymeqhz2j24gdypn6e74tft)**
 * **[Lava](https://lava.explorers.guru/validator/lava@valoper1c9e9ntwz2g6sxe5g00z0vgxp9yfqkrfe8fgzua)**
 * **[Paloma](https://explorer.mcbnode.online/paloma-test/staking/palomavaloper13cfxrvldlpxdhn8mq9ydm3syyshddruzu9r86y)**
 * **[Nibiru](https://nibiru.explorers.guru/validator/nibivaloper1k8jxnyt7tzlg98z7aqv4ydu3e85557yug63z5s)**
