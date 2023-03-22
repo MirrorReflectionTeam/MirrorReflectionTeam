@@ -25,6 +25,7 @@ We are looking forward to work with you.
 * **[Nibiru](https://nibiru.explorers.guru/validator/nibivaloper1k8jxnyt7tzlg98z7aqv4ydu3e85557yug63z5s)**
 * **[Andromeda](https://andromeda.explorers.guru/validator/andrvaloper187qg8np6zngwpsdmguf3jxwdj5hdwmh7v7awce)**
 * **[Quasar](https://quasar.explorers.guru/validator/quasarvaloper1a9nr78hgx86eqahrsu2as3hexnh3224j0e83hu)**
+* **[Ojo](https://ojo.explorers.guru/validator/ojovaloper1vpax8d27h2evn5nsk089k0zc7ue72w80jmffkv)**
 
 ## Social links:
 * **[YouTube](https://www.youtube.com/@mirrorreflection)**
