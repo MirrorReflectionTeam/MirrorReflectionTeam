@@ -16,7 +16,7 @@ We are looking forward to work with you.
 * **[Paloma](https://paloma.explorers.guru/validator/palomavaloper13cfxrvldlpxdhn8mq9ydm3syyshddruzu9r86y)**
 
 ### Testnet 
-* **[Uptick](https://uptick.explorers.guru/validator/uptickvaloper1urrht6c4qrmrxm3n7mj3q9phvfldfn69r6axr5)**
+* **[Uptick](https://uptick-testnet.exploreme.pro/validator/uptickvaloper1urrht6c4qrmrxm3n7mj3q9phvfldfn69r6axr5)**
 * **[Defund](https://defund.explorers.guru/validator/defundvaloper1v0emcp5u268etyz34x5wqdzzzuu33hsxycrgzr)**
 * **[Humans](https://humans.explorers.guru/validator/humanvaloper1s7vqhlesgtfr5a85pedxquctsc9j2zs2ufgwk7)**
 * **[Gitopia](https://gitopia.explorers.guru/validator/gitopiavaloper10rm952fn4e37apwr7eadr6h2n3z527yucj2hae)**
