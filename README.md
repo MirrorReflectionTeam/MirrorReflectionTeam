@@ -16,15 +16,11 @@ We are looking forward to work with you.
 * **[Paloma](https://paloma.explorers.guru/validator/palomavaloper13cfxrvldlpxdhn8mq9ydm3syyshddruzu9r86y)**
 
 ### Testnet 
-* **[Uptick](https://uptick-testnet.exploreme.pro/validator/uptickvaloper1urrht6c4qrmrxm3n7mj3q9phvfldfn69r6axr5)**
 * **[Defund](https://defund.explorers.guru/validator/defundvaloper1v0emcp5u268etyz34x5wqdzzzuu33hsxycrgzr)**
-* **[Humans](https://humans.explorers.guru/validator/humanvaloper1s7vqhlesgtfr5a85pedxquctsc9j2zs2ufgwk7)**
 * **[Gitopia](https://gitopia.explorers.guru/validator/gitopiavaloper10rm952fn4e37apwr7eadr6h2n3z527yucj2hae)**
 * **[Lava](https://lava.explorers.guru/validator/lava@valoper1c9e9ntwz2g6sxe5g00z0vgxp9yfqkrfe8fgzua)**
-* **[Paloma](https://explorer.mcbnode.online/paloma-test/staking/palomavaloper13cfxrvldlpxdhn8mq9ydm3syyshddruzu9r86y)**
 * **[Nibiru](https://nibiru.explorers.guru/validator/nibivaloper1k8jxnyt7tzlg98z7aqv4ydu3e85557yug63z5s)**
 * **[Andromeda](https://andromeda.explorers.guru/validator/andrvaloper187qg8np6zngwpsdmguf3jxwdj5hdwmh7v7awce)**
-* **[Quasar](https://quasar.explorers.guru/validator/quasarvaloper1a9nr78hgx86eqahrsu2as3hexnh3224j0e83hu)**
 * **[Ojo](https://ojo.explorers.guru/validator/ojovaloper1vpax8d27h2evn5nsk089k0zc7ue72w80jmffkv)**
 
 ## Social links:
