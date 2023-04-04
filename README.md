@@ -17,11 +17,11 @@ We are looking forward to work with you.
 
 ### Testnet 
 * **[Defund](https://defund.explorers.guru/validator/defundvaloper1v0emcp5u268etyz34x5wqdzzzuu33hsxycrgzr)**
-* **[Gitopia](https://gitopia.explorers.guru/validator/gitopiavaloper10rm952fn4e37apwr7eadr6h2n3z527yucj2hae)**
-* **[Lava](https://lava.explorers.guru/validator/lava@valoper1c9e9ntwz2g6sxe5g00z0vgxp9yfqkrfe8fgzua)**
-* **[Nibiru](https://nibiru.explorers.guru/validator/nibivaloper1k8jxnyt7tzlg98z7aqv4ydu3e85557yug63z5s)**
-* **[Andromeda](https://andromeda.explorers.guru/validator/andrvaloper187qg8np6zngwpsdmguf3jxwdj5hdwmh7v7awce)**
-* **[Ojo](https://ojo.explorers.guru/validator/ojovaloper1vpax8d27h2evn5nsk089k0zc7ue72w80jmffkv)**
+* **[Gitopia](https://gitopia.exploreme.pro/validator/gitopiavaloper10rm952fn4e37apwr7eadr6h2n3z527yucj2hae)**
+* **[Lava](https://lava.exploreme.pro/validator/lava@valoper1c9e9ntwz2g6sxe5g00z0vgxp9yfqkrfe8fgzua)**
+* **[Nibiru](https://nibiru.exploreme.pro/validator/nibivaloper1k8jxnyt7tzlg98z7aqv4ydu3e85557yug63z5s)**
+* **[Andromeda](https://andromeda.exploreme.pro/validator/andrvaloper187qg8np6zngwpsdmguf3jxwdj5hdwmh7v7awce)**
+* **[Ojo](https://ojo.exploreme.pro/validator/ojovaloper1vpax8d27h2evn5nsk089k0zc7ue72w80jmffkv)**
 
 ## Social links:
 * **[YouTube](https://www.youtube.com/@mirrorreflection)**
