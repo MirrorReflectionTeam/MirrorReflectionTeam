@@ -22,6 +22,7 @@ We are looking forward to work with you.
 * **[Nibiru](https://nibiru.exploreme.pro/validator/nibivaloper1k8jxnyt7tzlg98z7aqv4ydu3e85557yug63z5s)**
 * **[Andromeda](https://andromeda.exploreme.pro/validator/andrvaloper187qg8np6zngwpsdmguf3jxwdj5hdwmh7v7awce)**
 * **[Ojo](https://ojo.exploreme.pro/validator/ojovaloper1vpax8d27h2evn5nsk089k0zc7ue72w80jmffkv)**
+* **[Uptick](https://uptick-testnet.exploreme.pro/validator/uptickvaloper1urrht6c4qrmrxm3n7mj3q9phvfldfn69r6axr5)**
 
 ## Social links:
 * **[YouTube](https://www.youtube.com/@mirrorreflection)**
