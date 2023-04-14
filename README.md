@@ -5,9 +5,9 @@ Hi! We are Mirror Reflection Team from Ukraine. We have experience with trading 
 We are looking forward to work with you.
 
 ### :computer: Hardware:
-:earth_africa: Location - [Hetzner DS](https://www.hetzner.com/dedicated-rootserver/ax101)  
-:black_small_square: Processor - AMD Ryzen 5950X (32 CPU, 128 RAM)  
-:black_small_square: Memory - 6.8 TB NVMe  
+:earth_africa: Location - [Hetzner DS](https://www.hetzner.com/dedicated-rootserver/ax41-nvme)  
+:black_small_square: Processor - AMD Ryzen 5 3600 (6 CPU, 64 RAM)  
+:black_small_square: Memory - 2 x 512 GB NVMe  
 :black_small_square: Bandwidth - 1 Gbit/s-Port
 
 ## Validator in Cosmos ecosystem:
@@ -28,5 +28,6 @@ We are looking forward to work with you.
 * **[YouTube](https://www.youtube.com/@mirrorreflection)**
 * **[Telegram](https://t.me/MirrorReflectionFarming)**
 * **[Twitter](https://twitter.com/MirrorRefTeam)**
+* **[Instagram](https://instagram.com/mirrorreflection.hub?igshid=YmMyMTA2M2Y=)**
 
 <img src="https://komarev.com/ghpvc/?username=your-github-MirrorReflectionTeam&style=flat-square&color=blue" alt=""/>
