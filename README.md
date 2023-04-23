@@ -13,23 +13,23 @@ We are looking forward to work with you.
 ## Validator in Cosmos ecosystem:
 
 ### Mainnet
-* **[Paloma](https://paloma.explorers.guru/validator/palomavaloper13cfxrvldlpxdhn8mq9ydm3syyshddruzu9r86y)**
+<img src="https://raw.githubusercontent.com/MirrorReflectionTeam/cosmos_testnet_manuals/main/project_files/paloma.jpg" alt="Defund" width="24" height="24"> **[Paloma](https://paloma.explorers.guru/validator/palomavaloper13cfxrvldlpxdhn8mq9ydm3syyshddruzu9r86y)**
 
 ### Testnet 
-* **[Defund](https://defund.explorers.guru/validator/defundvaloper1v0emcp5u268etyz34x5wqdzzzuu33hsxycrgzr)**
-* **[Gitopia](https://gitopia.exploreme.pro/validator/gitopiavaloper10rm952fn4e37apwr7eadr6h2n3z527yucj2hae)**
-* **[Lava](https://lava.exploreme.pro/validator/lava@valoper1c9e9ntwz2g6sxe5g00z0vgxp9yfqkrfe8fgzua)**
-* **[Nibiru](https://nibiru.exploreme.pro/validator/nibivaloper1k8jxnyt7tzlg98z7aqv4ydu3e85557yug63z5s)**
-* **[Andromeda](https://andromeda.exploreme.pro/validator/andrvaloper187qg8np6zngwpsdmguf3jxwdj5hdwmh7v7awce)**
-* **[Ojo](https://ojo.exploreme.pro/validator/ojovaloper1vpax8d27h2evn5nsk089k0zc7ue72w80jmffkv)**
-* **[Uptick](https://uptick-testnet.exploreme.pro/validator/uptickvaloper1urrht6c4qrmrxm3n7mj3q9phvfldfn69r6axr5)**
-* **[Cardchain](https://crowdcontrol.exploreme.pro/validator/ccvaloper167dsxrc37q9puk85vpdcmfs7n7dg43q2g4xeeh)**
+<img src="https://raw.githubusercontent.com/MirrorReflectionTeam/cosmos_testnet_manuals/main/project_files/defund.jpg" alt="Defund" width="24" height="24"> **[Defund](https://defund.explorers.guru/validator/defundvaloper1v0emcp5u268etyz34x5wqdzzzuu33hsxycrgzr)** 
+<img src="https://raw.githubusercontent.com/MirrorReflectionTeam/cosmos_testnet_manuals/main/project_files/gitopia.png" alt="Gitopia" width="24" height="24">  **[Gitopia](https://gitopia.exploreme.pro/validator/gitopiavaloper10rm952fn4e37apwr7eadr6h2n3z527yucj2hae)**
+<img src="https://raw.githubusercontent.com/MirrorReflectionTeam/cosmos_testnet_manuals/main/project_files/lava.png" alt="Lava" width="24" height="24">  **[Lava](https://lava.exploreme.pro/validator/lava@valoper1c9e9ntwz2g6sxe5g00z0vgxp9yfqkrfe8fgzua)**
+<img src="https://raw.githubusercontent.com/MirrorReflectionTeam/cosmos_testnet_manuals/main/project_files/nibiru.jpg" alt="Nibiru" width="24" height="24">  **[Nibiru](https://nibiru.exploreme.pro/validator/nibivaloper1k8jxnyt7tzlg98z7aqv4ydu3e85557yug63z5s)**
+<img src="https://raw.githubusercontent.com/MirrorReflectionTeam/cosmos_testnet_manuals/main/project_files/andromeda.jpg" alt="Andromeda" width="24" height="24">  **[Andromeda](https://andromeda.exploreme.pro/validator/andrvaloper187qg8np6zngwpsdmguf3jxwdj5hdwmh7v7awce)**
+<img src="https://raw.githubusercontent.com/MirrorReflectionTeam/cosmos_testnet_manuals/main/project_files/ojo.jpg" alt="Ojo" width="24" height="24">  **[Ojo](https://ojo.exploreme.pro/validator/ojovaloper1vpax8d27h2evn5nsk089k0zc7ue72w80jmffkv)**
+<img src="https://raw.githubusercontent.com/MirrorReflectionTeam/cosmos_testnet_manuals/main/project_files/uptick.png" alt="Uptick" width="24" height="24">  **[Uptick](https://uptick-testnet.exploreme.pro/validator/uptickvaloper1urrht6c4qrmrxm3n7mj3q9phvfldfn69r6axr5)**
+<img src="https://raw.githubusercontent.com/MirrorReflectionTeam/cosmos_testnet_manuals/main/project_files/cardchain.png" alt="Cardchain" width="24" height="24">  **[Cardchain](https://crowdcontrol.exploreme.pro/validator/ccvaloper167dsxrc37q9puk85vpdcmfs7n7dg43q2g4xeeh)**
 
 ## Social links:
-* **[Website](https://services.mirror-reflection.com/)**
-* **[YouTube](https://www.youtube.com/@mirrorreflection)**
-* **[Telegram](https://t.me/MirrorReflectionFarming)**
-* **[Twitter](https://twitter.com/MirrorRefTeam)**
-* **[Instagram](https://instagram.com/mirrorreflection.hub?igshid=YmMyMTA2M2Y=)**
+<img src="https://github.com/MirrorReflectionTeam/MirrorReflectionTeam/blob/main/logos/web.png?raw=true" alt="Website" width="20" height="20"> **[Website](https://services.mirror-reflection.com/)**
+<img src="https://github.com/MirrorReflectionTeam/MirrorReflectionTeam/blob/main/logos/youtube.png?raw=true" alt="Website" width="20" height="15"> **[YouTube](https://www.youtube.com/@mirrorreflection)**
+<img src="https://github.com/MirrorReflectionTeam/MirrorReflectionTeam/blob/main/logos/tg.png?raw=true" alt="Website" width="20" height="20"> **[Telegram](https://t.me/MirrorReflectionFarming)**
+<img src="https://github.com/MirrorReflectionTeam/MirrorReflectionTeam/blob/main/logos/twiter.png?raw=true" alt="Website" width="20" height="20"> **[Twitter](https://twitter.com/MirrorRefTeam)**
+<img src="https://github.com/MirrorReflectionTeam/MirrorReflectionTeam/blob/main/logos/inst.png?raw=true" alt="Website" width="20" height="20"> **[Instagram](https://instagram.com/mirrorreflection.hub?igshid=YmMyMTA2M2Y=)**
 
 <img src="https://komarev.com/ghpvc/?username=your-github-MirrorReflectionTeam&style=flat-square&color=blue" alt=""/>
