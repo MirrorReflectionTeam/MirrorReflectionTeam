@@ -23,8 +23,10 @@ We are looking forward to work with you.
 * **[Andromeda](https://andromeda.exploreme.pro/validator/andrvaloper187qg8np6zngwpsdmguf3jxwdj5hdwmh7v7awce)**
 * **[Ojo](https://ojo.exploreme.pro/validator/ojovaloper1vpax8d27h2evn5nsk089k0zc7ue72w80jmffkv)**
 * **[Uptick](https://uptick-testnet.exploreme.pro/validator/uptickvaloper1urrht6c4qrmrxm3n7mj3q9phvfldfn69r6axr5)**
+* **[Cardchain](https://crowdcontrol.exploreme.pro/validator/ccvaloper167dsxrc37q9puk85vpdcmfs7n7dg43q2g4xeeh)**
 
 ## Social links:
+* **[Website](https://services.mirror-reflection.com/)**
 * **[YouTube](https://www.youtube.com/@mirrorreflection)**
 * **[Telegram](https://t.me/MirrorReflectionFarming)**
 * **[Twitter](https://twitter.com/MirrorRefTeam)**
