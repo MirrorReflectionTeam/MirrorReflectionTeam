@@ -17,6 +17,7 @@ We are looking forward to work with you.
 
 ### Testnet 
 <img src="https://raw.githubusercontent.com/MirrorReflectionTeam/cosmos_testnet_manuals/main/project_files/defund.jpg" alt="Defund" width="24" height="24"> **[Defund](https://defund.explorers.guru/validator/defundvaloper1v0emcp5u268etyz34x5wqdzzzuu33hsxycrgzr)** 
+
 <img src="https://raw.githubusercontent.com/MirrorReflectionTeam/cosmos_testnet_manuals/main/project_files/gitopia.png" alt="Gitopia" width="24" height="24">  **[Gitopia](https://gitopia.exploreme.pro/validator/gitopiavaloper10rm952fn4e37apwr7eadr6h2n3z527yucj2hae)**
 <img src="https://raw.githubusercontent.com/MirrorReflectionTeam/cosmos_testnet_manuals/main/project_files/lava.png" alt="Lava" width="24" height="24">  **[Lava](https://lava.exploreme.pro/validator/lava@valoper1c9e9ntwz2g6sxe5g00z0vgxp9yfqkrfe8fgzua)**
 <img src="https://raw.githubusercontent.com/MirrorReflectionTeam/cosmos_testnet_manuals/main/project_files/nibiru.jpg" alt="Nibiru" width="24" height="24">  **[Nibiru](https://nibiru.exploreme.pro/validator/nibivaloper1k8jxnyt7tzlg98z7aqv4ydu3e85557yug63z5s)**
