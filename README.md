@@ -31,9 +31,9 @@ We are looking forward to work with you.
 
 ## Social links:
 <img src="https://github.com/MirrorReflectionTeam/MirrorReflectionTeam/blob/main/logos/web.png?raw=true" alt="Website" width="20" height="20"> **[Website](https://services.mirror-reflection.com/)**
-<img src="https://github.com/MirrorReflectionTeam/MirrorReflectionTeam/blob/main/logos/youtube.png?raw=true" alt="Website" width="20" height="15"> **[YouTube](https://www.youtube.com/@mirrorreflection)**
-<img src="https://github.com/MirrorReflectionTeam/MirrorReflectionTeam/blob/main/logos/tg.png?raw=true" alt="Website" width="20" height="20"> **[Telegram](https://t.me/MirrorReflectionFarming)**
-<img src="https://github.com/MirrorReflectionTeam/MirrorReflectionTeam/blob/main/logos/twiter.png?raw=true" alt="Website" width="20" height="20"> **[Twitter](https://twitter.com/MirrorRefTeam)**
-<img src="https://github.com/MirrorReflectionTeam/MirrorReflectionTeam/blob/main/logos/inst.png?raw=true" alt="Website" width="20" height="20"> **[Instagram](https://instagram.com/mirrorreflection.hub?igshid=YmMyMTA2M2Y=)** 
+&nbsp;&nbsp;&nbsp;<img src="https://github.com/MirrorReflectionTeam/MirrorReflectionTeam/blob/main/logos/youtube.png?raw=true" alt="Website" width="20" height="15"> **[YouTube](https://www.youtube.com/@mirrorreflection)**
+&nbsp;&nbsp;&nbsp;<img src="https://github.com/MirrorReflectionTeam/MirrorReflectionTeam/blob/main/logos/tg.png?raw=true" alt="Website" width="20" height="20"> **[Telegram](https://t.me/MirrorReflectionFarming)**
+&nbsp;&nbsp;&nbsp;<img src="https://github.com/MirrorReflectionTeam/MirrorReflectionTeam/blob/main/logos/twiter.png?raw=true" alt="Website" width="20" height="20"> **[Twitter](https://twitter.com/MirrorRefTeam)**
+&nbsp;&nbsp;&nbsp;<img src="https://github.com/MirrorReflectionTeam/MirrorReflectionTeam/blob/main/logos/inst.png?raw=true" alt="Website" width="20" height="20"> **[Instagram](https://instagram.com/mirrorreflection.hub?igshid=YmMyMTA2M2Y=)** 
 
 <img src="https://komarev.com/ghpvc/?username=your-github-MirrorReflectionTeam&style=flat-square&color=blue" alt=""/>
