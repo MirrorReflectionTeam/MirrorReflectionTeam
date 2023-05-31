@@ -26,7 +26,7 @@ We are looking forward to work with you.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/MirrorReflectionTeam/cosmos_testnet_manuals/main/project_files/andromeda.jpg" alt="Andromeda" width="24" height="24">  **[Andromeda](https://andromeda.explorers.guru/validator/andrvaloper187qg8np6zngwpsdmguf3jxwdj5hdwmh7v7awce)**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/MirrorReflectionTeam/cosmos_testnet_manuals/main/project_files/ojo.jpg" alt="Ojo" width="24" height="24">  **[Ojo](https://ojo.explorers.guru/validator/ojovaloper1vpax8d27h2evn5nsk089k0zc7ue72w80jmffkv)** <br>
 <img src="https://raw.githubusercontent.com/MirrorReflectionTeam/cosmos_testnet_manuals/main/project_files/cardchain.png" alt="Cardchain" width="24" height="24">  **[Cardchain](https://crowdcontrol.exploreme.pro/validator/ccvaloper167dsxrc37q9puk85vpdcmfs7n7dg43q2g4xeeh)**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/MirrorReflectionTeam/cosmos_testnet_manuals/main/project_files/babylon.png" alt="Babylon" width="24" height="24">  **[Babylon](https://babylon.explorers.guru/validator/bbnvaloper1t825vmpzj2s73kr4jhlh73g5cp7hq0j9r7upte)** 
+&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/MirrorReflectionTeam/cosmos_testnet_manuals/main/project_files/babylon.png" alt="Babylon" width="24" height="24">  **[Babylon](https://babylon.explorers.guru/validator/bbnvaloper1t825vmpzj2s73kr4jhlh73g5cp7hq0j9r7upte)** 
 
 ## Social links:
 <img src="https://github.com/MirrorReflectionTeam/MirrorReflectionTeam/blob/main/logos/web.png?raw=true" alt="Website" width="20" height="20"> **[Website](https://services.mirror-reflection.com/)**
